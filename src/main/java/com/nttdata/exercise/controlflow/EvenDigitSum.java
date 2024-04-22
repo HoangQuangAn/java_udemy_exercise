@@ -31,7 +31,7 @@ public class EvenDigitSum {
         }
         String result = "";
         do {
-                
+
         }while (a==1);
     }
 }
